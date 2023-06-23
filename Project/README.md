@@ -1,4 +1,4 @@
-# BeyondMars Project (Final Version)
+# BeyondMars Group Project (Final Version)
 
 **Authors:**
  - Rafael Pedro Augusto Garcia - ist1106379
